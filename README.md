@@ -1,5 +1,9 @@
-#React Timer
+# React Timer
 
-## Technologies : TypeScript, React, CSS Modules
+## Technologies
+- TypesScript, React
+- HTML5, CSS Modules, Flex-box, Grid, 
+- Webpack
 
-## DEMO Link
+## Description
+- [DEMO LINK](https://herkoss.github.io/react-timer/)
