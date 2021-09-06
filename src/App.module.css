@@ -1,0 +1,18 @@
+.timerContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.title {
+  text-align: center;
+}
+
+.buttonsWrapper {
+  display: grid;
+  grid-template-columns: repeat(3, 100px);
+  gap: 20px;
+}
