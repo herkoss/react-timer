@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/herkoss/react-timer/static/css/main.77519498.chunk.css",
+    "main.js": "/herkoss/react-timer/static/js/main.4e90d07f.chunk.js",
+    "main.js.map": "/herkoss/react-timer/static/js/main.4e90d07f.chunk.js.map",
+    "runtime-main.js": "/herkoss/react-timer/static/js/runtime-main.d8720567.js",
+    "runtime-main.js.map": "/herkoss/react-timer/static/js/runtime-main.d8720567.js.map",
+    "static/js/2.1ce30dfc.chunk.js": "/herkoss/react-timer/static/js/2.1ce30dfc.chunk.js",
+    "static/js/2.1ce30dfc.chunk.js.map": "/herkoss/react-timer/static/js/2.1ce30dfc.chunk.js.map",
+    "index.html": "/herkoss/react-timer/index.html",
+    "static/css/main.77519498.chunk.css.map": "/herkoss/react-timer/static/css/main.77519498.chunk.css.map",
+    "static/js/2.1ce30dfc.chunk.js.LICENSE.txt": "/herkoss/react-timer/static/js/2.1ce30dfc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8720567.js",
+    "static/js/2.1ce30dfc.chunk.js",
+    "static/css/main.77519498.chunk.css",
+    "static/js/main.4e90d07f.chunk.js"
+  ]
+}
